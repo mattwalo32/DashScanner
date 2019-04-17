@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "147490052640",
+    "firebase_url": "https://tridentinventory4296.firebaseio.com",
+    "project_id": "tridentinventory4296",
+    "storage_bucket": "tridentinventory4296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147490052640:android:207e018960045678",
+        "android_client_info": {
+          "package_name": "com.la_a.dashscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147490052640-gqu9i6ig5e51bna5ajgkfbufkshkguqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfkmidnrX07d_sOf37ZX-VIfqA_lm-LU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
