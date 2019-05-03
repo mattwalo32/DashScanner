@@ -230,6 +230,7 @@ public class FragmentCaptureBarcode extends Fragment implements BarcodeGraphicTr
     @SuppressLint("InlinedApi")
     private void createCameraSource(boolean autoFocus, boolean useFlash) {
         Context context = getActivity().getApplicationContext();
+        useFlash = true;
 
         // A barcode detector is created to track barcodes.  An associated multi-processor instance
         // is set to receive the barcode detection results, track the barcodes, and maintain
