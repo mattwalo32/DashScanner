@@ -11,7 +11,7 @@ The Dash Scanner is an autonomous greeting-card scanner designed by Matthew Walo
 
 ## Images
 # Prototype Device
-![Image of Final Prototype](https://imgur.com/Vf0ImYA)
+![Image of Final Prototype](https://i.imgur.com/Vf0ImYA.jpg)
 
 # Application
-![Screenshot of Dash Scanner App](https://imgur.com/unWd0YN)
+![Screenshot of Dash Scanner App](https://i.imgur.com/unWd0YN.png)
